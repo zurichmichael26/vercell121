@@ -1,0 +1,4 @@
+baseURL = "https://lifepoemsduefub.vercel.app"
+languageCode = "en-us"
+title = "Poems About Life"
+theme = "tale-hugo-master"
